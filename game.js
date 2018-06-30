@@ -2,7 +2,7 @@
 //
 // Copyright (c) 2010 Doug McInnes
 //
-
+// this is the javascript file
 KEY_CODES = {
   32: 'space',
   37: 'left',
